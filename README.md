@@ -1,5 +1,5 @@
 # express-delivery🎂
-基于SpringBoot的校园快递管理系统
+基于SpringBoot+Thymeleaf的校园快递管理系统
 
 
 #### 介绍🌞
